@@ -1,0 +1,36 @@
+commit 65531c82a8fa07ba42d0e6aaa067d7f12bb5b427 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Eleonora Krstevska <krstevskaeleonora@yahoo.com>
+Date:   Tue Apr 2 17:19:57 2024 +0200
+
+    Call method makeBigStringFrom in main class
+    CONFLICT RESOLVED
+
+commit f8acd6dd2954c56ee0392d6d9c25b2615600f67e
+Author: Eleonora Krstevska <krstevskaeleonora@yahoo.com>
+Date:   Tue Apr 2 17:05:26 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 3d4c5ef74da595758fc04f334ea3ec3eb36f89b0 (origin/bug1, bug1)
+Author: Eleonora Krstevska <krstevskaeleonora@yahoo.com>
+Date:   Tue Apr 2 17:12:17 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit d675dc46359c223b80d2765e6396d3fd6a7a0673
+Author: Eleonora Krstevska <krstevskaeleonora@yahoo.com>
+Date:   Tue Apr 2 17:01:09 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 2b4497367f28b2d5691502f3f1e58b261efada88
+Author: Eleonora Krstevska <krstevskaeleonora@yahoo.com>
+Date:   Tue Apr 2 16:40:44 2024 +0200
+
+    Add starter code
+
+commit a2defb72b190bf7c6365244bba701eb955e54a5e
+Author: Eleonora Krstevska <krstevskaeleonora@yahoo.com>
+Date:   Tue Apr 2 15:49:28 2024 +0200
+
+    Initial commit
